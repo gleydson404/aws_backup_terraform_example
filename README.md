@@ -1,7 +1,7 @@
 # aws_backup_terraform_example
 
 This project is just an example, some kind of proof of concept for using AWS backup. In this
-project we have a sort of terraform scripts to profiviosing an EC2 instance and an AWS Backup
+project we have a some terraform scripts to profiviosing an EC2 instance and an AWS Backup
 Plan with all dependencis for this, including rules and selections for the backup plan.
 
 ## Things you need to know
@@ -85,6 +85,6 @@ AWS. For this, run:
 
 `terraform detroy`
 
-and confirm whe terraform ask's for confirmation.
+and confirm when terraform ask's for confirmation.
 
-Enjoy!
+Enjoy it!
