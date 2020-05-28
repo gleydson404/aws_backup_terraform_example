@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  aws_backup_terraform_example:
+    build: .
+    env_file:
+        .env
+    volumes:
+      - .:/aws_backup_terraform_example
+      -  ~/.aws:/root/.aws
