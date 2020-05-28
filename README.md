@@ -64,7 +64,7 @@ generated.
 
 
 
-## Ok, i've done all the steps before, when the magic goes on?
+## Ok, i've done all the steps before, when the magic happens?
 
 Take it easy. We are almost done.
 
